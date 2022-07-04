@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\ASAPSystem.Task\ASAPSystem.Task.Core\bin\Debug\net5.0\ASAPSystem.Assignment.Core.deps.json
+C:\Users\hp\source\repos\ASAPSystem.Task\ASAPSystem.Task.Core\bin\Debug\net5.0\ASAPSystem.Assignment.Core.dll
+C:\Users\hp\source\repos\ASAPSystem.Task\ASAPSystem.Task.Core\bin\Debug\net5.0\ref\ASAPSystem.Assignment.Core.dll
+C:\Users\hp\source\repos\ASAPSystem.Task\ASAPSystem.Task.Core\bin\Debug\net5.0\ASAPSystem.Assignment.Core.pdb
+C:\Users\hp\source\repos\ASAPSystem.Task\ASAPSystem.Task.Core\obj\Debug\net5.0\ASAPSystem.Assignment.Core.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\ASAPSystem.Task\ASAPSystem.Task.Core\obj\Debug\net5.0\ASAPSystem.Assignment.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\ASAPSystem.Task\ASAPSystem.Task.Core\obj\Debug\net5.0\ASAPSystem.Assignment.Core.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\ASAPSystem.Task\ASAPSystem.Task.Core\obj\Debug\net5.0\ASAPSystem.Assignment.Core.AssemblyInfo.cs
+C:\Users\hp\source\repos\ASAPSystem.Task\ASAPSystem.Task.Core\obj\Debug\net5.0\ASAPSystem.Assignment.Core.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ASAPSystem.Task\ASAPSystem.Task.Core\obj\Debug\net5.0\ASAPSystem.Assignment.Core.dll
+C:\Users\hp\source\repos\ASAPSystem.Task\ASAPSystem.Task.Core\obj\Debug\net5.0\ref\ASAPSystem.Assignment.Core.dll
+C:\Users\hp\source\repos\ASAPSystem.Task\ASAPSystem.Task.Core\obj\Debug\net5.0\ASAPSystem.Assignment.Core.pdb
