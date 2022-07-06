@@ -63,3 +63,9 @@ C:\Users\hp\source\repos\ASAPSystem.Task\ASAPSystem.Task.Web\obj\Debug\net5.0\AS
 C:\Users\hp\source\repos\ASAPSystem.Task\ASAPSystem.Task.Web\obj\Debug\net5.0\ref\ASAPSystem.Assignment.Web.dll
 C:\Users\hp\source\repos\ASAPSystem.Task\ASAPSystem.Task.Web\obj\Debug\net5.0\ASAPSystem.Assignment.Web.pdb
 C:\Users\hp\source\repos\ASAPSystem.Task\ASAPSystem.Task.Web\obj\Debug\net5.0\ASAPSystem.Assignment.Web.genruntimeconfig.cache
+C:\Users\hp\source\repos\ASAPSystem.Task\ASAPSystem.Task.Web\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\hp\source\repos\ASAPSystem.Task\ASAPSystem.Task.Web\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\hp\source\repos\ASAPSystem.Task\ASAPSystem.Task.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hp\source\repos\ASAPSystem.Task\ASAPSystem.Task.Web\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\hp\source\repos\ASAPSystem.Task\ASAPSystem.Task.Web\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\hp\source\repos\ASAPSystem.Task\ASAPSystem.Task.Web\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll

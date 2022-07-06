@@ -1,10 +1,12 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
+using System.Linq;
+using System.Threading.Tasks;
 
-namespace ASAPSystem.Assignment.Core.Models
+namespace ASAPSystem.Assignment.Web.Models.Address
 {
-    public class Address
+    public class AddressModel
     {
         public int Id { get; set; }
         [Required]
@@ -18,7 +20,5 @@ namespace ASAPSystem.Assignment.Core.Models
         public DateTime CreatedOn { get; set; }
 
         public int PersonId { get; set; }
-        [ForeignKey(nameof(PersonId))]
-        public Person Person { get; set; }
     }
 }

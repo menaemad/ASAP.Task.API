@@ -46,6 +46,17 @@ namespace ASAPSystem.Assignment.Web
             services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
             services.AddScoped<IAddressService, AddressService>();
             services.AddScoped<IPersonService, PersonService>();
+            services.AddAutoMapper(typeof(Startup));
+            services.AddCors(options =>
+            {
+                options.AddDefaultPolicy(
+                    builder =>
+                    {
+                        builder.WithOrigins("https://localhost:44302", "http://localhost:4200")
+                                            .AllowAnyHeader()
+                                            .AllowAnyMethod();
+                    });
+            });
 
         }
 
@@ -58,17 +69,18 @@ namespace ASAPSystem.Assignment.Web
                 app.UseSwagger();
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "ASAPSystem.Assignment.Web v1"));
             }
-
+            app.UseCors();
             app.UseHttpsRedirection();
 
             app.UseRouting();
 
-            app.UseAuthorization();
+            //app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
             });
+            
         }
     }
 }

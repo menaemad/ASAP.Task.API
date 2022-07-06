@@ -2,12 +2,11 @@
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 
-namespace ASAPSystem.Assignment.Core.Models
+namespace ASAPSystem.Assignment.Web.Models.Person
 {
-    public class Person
+    public class PersonModel
     {
         public int Id { get; set; }
         [Required]
@@ -15,6 +14,5 @@ namespace ASAPSystem.Assignment.Core.Models
         [Required]
         [EmailAddress]
         public string Email { get; set; }
-
     }
 }
